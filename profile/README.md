@@ -1,10 +1,10 @@
 <div align="center">
 
-# Omnicom
+# OMNICOM
 
-**ITSM/ESM consultancy — Bratislava, Slovakia**
+**ITSM/ESM consultancy & solutions**
 
-We deploy and customize IT service management platforms — GLPI, Xurrent, HaloITSM and others — for clients across government and enterprise. This org is where we open-source the tooling we build along the way.
+We deploy and customize IT service management platforms — GLPI, Xurrent, HaloITSM and others. This org is where we open-source the tooling we build along the way.
 
 [omnicom.digital](https://www.omnicom.digital) · [OMNICOM-Digital.github.io](https://OMNICOM-Digital.github.io)
 
